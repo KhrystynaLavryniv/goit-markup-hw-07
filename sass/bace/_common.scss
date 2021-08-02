@@ -29,6 +29,10 @@ ul {
 }
 
 .section {
+  // @media (max-width: 767px) {
+  //   padding-right: 15px;
+  //   padding-left: 15px;
+  // }
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
 }
